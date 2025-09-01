@@ -20,7 +20,7 @@
 
 ## Usage
 1. Launch the application by opening **`Client.exe`**  
-2. Enter a server URL (e.g., `https://cff78d3b24bf.ngrok-free.app`). Custom client servers support will be added in future updates  
+2. Enter a server URL (e.g., `https://4e38af6d0cd0.ngrok-free.app`). Custom client servers support will be added in future updates  
 3. Enter a username to identify yourself in the chat  
 4. Start chatting with other connected users in real time  
 
